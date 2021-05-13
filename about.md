@@ -27,17 +27,24 @@ I am majoring Religious Studies, Psychology and Business. I'm looking for HR int
 
 ### Office
 - MS Word: Advanced
+
 - 한글: Advanced
+
 - MS Powerpoint: Advanced
+
 - MS Excel: Intermediate
 
 
 ## Previous Experiences
 - 1 Part-time job
+
 - 1 HRM academic club
-- 5 Club activities (including vice president experience)
-- 1 Exchange student (England) 
-- Experience in detail/what I felt: Will be on my resume.
+
+- 5 Club activities (vice president included)
+
+- 1 Exchange student (England)
+
+Experience in detail/what I felt: will be on my resume.
 
 
 ## Contact
