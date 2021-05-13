@@ -18,7 +18,7 @@ email: 'zzb19yk@gmail.com'
 description: "I'm a university student from South Korea interested in HRM."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://github.com/zzb19yk" # the base hostname & protocol for your site, e.g. https://example.com
-twitter_username:
+
 github_username: 'zzb19yk'
 medium_username: 
 
@@ -89,8 +89,8 @@ pagination:
 ############################################################
 
 ### Phantom settings
-footer_text: '© 2018 Jami Gibbs'
-admin_name: 'Jami Gibbs'
+footer_text: '© 2021 Yunkyu Kim'
+admin_name: 'Yunkyu Kim'
 google_analytics: "UA-9999999-99" # Update with your own tracking ID
 enable_contact: false
 
