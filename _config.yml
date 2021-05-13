@@ -16,6 +16,7 @@
 title: "Hello. I'm Yunkyu Kim."
 email: 'zzb19yk@gmail.com'
 description: "I'm a university student from South Korea interested in HRM."
+contact:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://github.com/zzb19yk" # the base hostname & protocol for your site, e.g. https://example.com
 
