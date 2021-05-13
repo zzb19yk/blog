@@ -3,13 +3,11 @@ layout: inner
 title: About
 permalink: /about/
 ---
-## Markdown
+## Welcome to my hompage!
+This is my homepage. 
+I will post my projects, thoughts and others here. 
+Thanks!
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
-[Link to another page](/index.html).
-
-There should be whitespace between paragraphs.
 
 # Header 1
 
