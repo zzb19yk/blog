@@ -40,7 +40,7 @@ I am majoring Religious Studies, Psychology and Business. I'm looking for HR int
 
 - 1 HRM academic club
 
-- 5 Club activities (vice president included)
+- 5 Club activities (Vice President included)
 
 - 1 Exchange student (Sheffield, United Kingdom)
 
