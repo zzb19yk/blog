@@ -17,7 +17,7 @@ I'm a university student interested in HRM; recruiting, organizational culture, 
 I am majoring Religious Studies, Psychology and Business. I'm looking for HR intern job.
 
 
-## My Skills:
+## My Skills
 - Language
   - English: Fluent
   - Korean: Native
@@ -32,7 +32,7 @@ I am majoring Religious Studies, Psychology and Business. I'm looking for HR int
 - 1 Part-time job
 - 1 HRM academic club
 - 5 Club activities (including vice president experience)
-- 1-semester Exchange student (England) 
+- 1 Exchange student (England) 
 
 * Experience in detail/what I felt: Will be on my resume.
 
