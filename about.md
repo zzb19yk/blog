@@ -20,8 +20,10 @@ I am majoring Religious Studies, Psychology and Business. I'm looking for HR int
 ## My Skills
 ### Language
 - English: Fluent
+ 
 - Korean: Native
-- Others(German, Japanese, Chinese, Arabic): Below A1
+
+- Others (German, Japanese, Chinese, Arabic): Below A1
 
 ### Office
 - MS Word: Advanced
@@ -35,7 +37,6 @@ I am majoring Religious Studies, Psychology and Business. I'm looking for HR int
 - 1 HRM academic club
 - 5 Club activities (including vice president experience)
 - 1 Exchange student (England) 
-
 - Experience in detail/what I felt: Will be on my resume.
 
 
