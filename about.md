@@ -39,10 +39,9 @@ I am majoring Religious Studies, Psychology and Business. I'm looking for HR int
 - 1-semester Exchange student (England) 
 * Experience in detail/what I felt: Will be on my resume.
 
-{% highlight txt %}
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-{% endhighlight %}
+## Contact
+---
+**My github link**: [@zzb19yk](https://github.com/zzb19yk) 
 
-{% highlight txt %}
-The final element.
-{% endhighlight %}
+**Email**: zzb19yk@gmail.com
+
