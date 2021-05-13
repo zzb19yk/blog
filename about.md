@@ -42,7 +42,7 @@ I am majoring Religious Studies, Psychology and Business. I'm looking for HR int
 
 - 5 Club activities (vice president included)
 
-- 1 Exchange student (England)
+- 1 Exchange student (Sheffield, United Kingdom)
 
 Experience in detail/what I felt: will be on my resume.
 
