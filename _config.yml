@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "Hello. I'm Yunkyu Kim."
 email: 'zzb19yk@gmail.com'
-description: |
+description: 
 "I'm a university student from South Korea interested in HRM. 
 Please click 'About' Page for more information."
 
