@@ -23,7 +23,7 @@ I am majoring Religious Studies, Psychology and Business. I'm looking for HR int
  
 - Korean: Native
 
-- Others (German, Japanese, Chinese, Arabic): Below A1
+- Others (German, Japanese, Chinese, Arabic): Beginner (Below A1)
 
 ### Office
 - MS Word: Advanced
@@ -44,7 +44,11 @@ I am majoring Religious Studies, Psychology and Business. I'm looking for HR int
 
 - 1 Exchange student (Sheffield, United Kingdom)
 
-Experience in detail/what I felt: will be on my resume.
+My Experience in brief: 
+[download resume](https://drive.google.com/file/d/1bEHjFwg7ECEFNB2RyQXhuAtOhvnMB4kc/view?usp=sharing)
+
+
+Experience in detail/what I felt: Will be on my resume.
 
 
 ## Contact
