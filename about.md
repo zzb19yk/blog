@@ -8,6 +8,9 @@ This is my homepage.
 I will post my projects, thoughts and others here. 
 Thanks!
 
+## Download My Resume & Portfolio (KOR)
+[Download Resume](https://drive.google.com/file/d/1bEHjFwg7ECEFNB2RyQXhuAtOhvnMB4kc/view?usp=sharing)
+
 
 ## About Me
 My name is Yunkyu Kim. 
@@ -43,12 +46,6 @@ I am majoring Religious Studies, Psychology and Business. I'm looking for HR int
 - 5 Club activities (Vice President included)
 
 - 1 Exchange student (Sheffield, United Kingdom)
-
-My Experience in brief: 
-[download resume](https://drive.google.com/file/d/1bEHjFwg7ECEFNB2RyQXhuAtOhvnMB4kc/view?usp=sharing)
-
-
-Experience in detail/what I felt: Will be on my resume.
 
 
 ## Contact
