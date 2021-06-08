@@ -3,7 +3,7 @@ layout: inner
 title: About
 permalink: /about/
 ---
-# Welcome to my hompage!
+# Welcome to my homepage!
 This is my homepage. 
 I will post my projects, thoughts and others here. 
 Thanks!
