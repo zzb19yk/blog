@@ -10,7 +10,7 @@ Thanks!
 
 ## Download My Resume & Portfolio (KOR)
 [Download Resume](https://drive.google.com/file/d/1bEHjFwg7ECEFNB2RyQXhuAtOhvnMB4kc/view?usp=sharing)
-
+[Download Portfolio](https://drive.google.com/file/d/1z3hgFR0y1SCwXsj78PagozdeDOco50f4/view?usp=sharing)
 
 ## About Me
 My name is Yunkyu Kim. 
