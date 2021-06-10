@@ -16,7 +16,7 @@ Thanks!
 ## About Me
 My name is Yunkyu Kim. 
 
-I'm a university student interested in HRM; recruiting, organizational culture, global HR, HR analytics, and more.
+I'm a university student interested in HRM; especially recruiting and organizational culture.
 
 I am majoring Religious Studies, Psychology and Business. I'm looking for HR intern job.
 
