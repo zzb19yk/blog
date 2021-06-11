@@ -8,17 +8,12 @@ This is my homepage.
 I will post my projects, thoughts and others here. 
 Thanks!
 
-## Download My Resume & Portfolio (KOR)
-[Download Resume](https://drive.google.com/file/d/1bEHjFwg7ECEFNB2RyQXhuAtOhvnMB4kc/view?usp=sharing)
-
-[Download Portfolio](https://drive.google.com/file/d/1z3hgFR0y1SCwXsj78PagozdeDOco50f4/view?usp=sharing)
-
 ## About Me
 My name is Yunkyu Kim. 
 
-I'm a university student interested in HRM; especially recruiting and organizational culture.
+I'm a university student interested in technical writing and recruiting.
 
-I am majoring Religious Studies, Psychology and Business. I'm looking for HR intern job.
+I am majoring Religious Studies, Psychology and Business. I'm looking for an intern job.
 
 
 ## My Skills
