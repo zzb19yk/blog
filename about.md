@@ -8,6 +8,10 @@ This is my homepage.
 I will post my projects, thoughts and others here. 
 Thanks!
 
+## Download My Resume
+[ENGLISH](https://drive.google.com/file/d/1tLB__0JiZ7Pus8zgrTONSDXRjuuXvoz7/view?usp=sharing)
+[KOREAN](https://drive.google.com/file/d/1eFLgkbbGZoLfOo92VB5HJ2Nh77GL4mxr/view?usp=sharing)
+
 ## About Me
 My name is Yunkyu Kim. 
 
