@@ -43,7 +43,7 @@ I am majoring Religious Studies, Psychology and Business. I'm looking for an int
 
 - 1 Exchange student (Sheffield, United Kingdom)
 
-What I learned: Will be on my Portfolio.
+What I learned: Will be on my Resume/Portfolio.
 
 ## Contact
 **My github link**: [@zzb19yk](https://github.com/zzb19yk) 
