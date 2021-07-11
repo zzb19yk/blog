@@ -11,7 +11,7 @@ Thanks!
 ## About Me
 My name is Yunkyu Kim. 
 
-I'm a university student interested in technical writing and recruiting.
+I'm a university student interested in HR, especially recruiting.
 
 I am majoring Religious Studies, Psychology and Business. I'm looking for an intern job.
 
